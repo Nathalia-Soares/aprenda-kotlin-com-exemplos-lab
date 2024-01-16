@@ -1,10 +1,15 @@
 # Aprenda Kotlin Com Exemplos: Desafio de Projeto (Lab)
 
-Desafio de Projeto criado para avaliação do conteúdo técnico explorado no repositório [aprenda-kotlin-com-exemplos](https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos). **Nesse contexto, iremos abstrair o seguinte domínio de aplicação:**
+Desafio de Projeto criado no Bootcamp "Desenvolvimento Backend com Kotlin" da Digital Inovation One (DIO) para avaliação de desempenho dos alunos.
+Na proposta, existem algumas classes previamente criadas e cabia ao aluno refatorar o código de acordo com o que ele achasse necessário.
 
-**A [DIO](https://web.dio.me) possui `Formacoes` incríveis que têm como objetivo oferecer um conjunto de `ConteudosEducacionais` voltados para uma stack tecnológica específica, preparando profissionais de TI para o mercado de trabalho. `Formacoes` possuem algumas características importantes, como `nome`, `nivel` e seus respectivos `conteudosEducacionais`. Além disso, tais experiências educacionais têm um comportamento relevante ao nosso domínio, definido pela capacidade de `matricular` um ou mais `Alunos`.**
+Neste projeto, apresento minha refatoração no código, aprimorando as classes previamente criadas (Usuario, ConteudoEducacional e Formacao), a criação da enum "Tipo" e a criação de funções "acidionarConteudo", "listarConteudos", "matricular" e "listar inscritos", além da criação dos objetos para Usuario, ConteudoEducacional e Formacao.
 
+* Conhecimentos utilizados neste código: *
 
-```kotlin
-TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.kt] te ajudará 😉")
-```
+* Linguagem de programação Kotlin
+* Orientação a objetos
+* Coleções e listas
+* Tratamento de exceções
+
+Código de base em: (https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos)
