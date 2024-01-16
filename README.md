@@ -5,7 +5,7 @@ Na proposta, existem algumas classes previamente criadas e cabia ao aluno refato
 
 Neste projeto, apresento minha refatoração no código, aprimorando as classes previamente criadas (Usuario, ConteudoEducacional e Formacao), a criação da enum "Tipo" e a criação de funções "acidionarConteudo", "listarConteudos", "matricular" e "listar inscritos", além da criação dos objetos para Usuario, ConteudoEducacional e Formacao.
 
-* Conhecimentos utilizados neste código: *
+Conhecimentos utilizados neste código:
 
 * Linguagem de programação Kotlin
 * Orientação a objetos
